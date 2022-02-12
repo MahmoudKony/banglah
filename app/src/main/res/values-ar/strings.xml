@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">banglah</string>
+    <string name="Signup">إنشاء حساب</string>
+    <string name="SignIn">تسجيل دخول</string>
+    <string name="arname">أدخل الاسم بالكامل</string>
+    <string name="arphone">رقم التلفون</string>
+    <string name="arpassword">كلمة السر</string>
+    <string name="aremail">إيمال</string>
+</resources>

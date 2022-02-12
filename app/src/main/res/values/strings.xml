@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">banglah</string>
+    <string name="arname">أدخل الاسم بالكامل</string>
+    <string name="arphone">رقم التلفون</string>
+    <string name="arpassword">كلمة السر</string>
+    <string name="aremail">إيمال</string>
+</resources>
